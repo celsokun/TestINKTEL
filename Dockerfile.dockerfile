@@ -1,6 +1,6 @@
 FROM node:10
 
-WORKDIR /app
+WORKDIR /app/server.js
 
 ENV PORT 8080
 ENV HOST 0.0.0.0
